@@ -1,2 +1,2 @@
 #SPID-Auth
-Derivato dal progetto originare: https://github.com/italia/spid-php-lib 
+Derivato dal progetto originale: https://github.com/italia/spid-php-lib 
